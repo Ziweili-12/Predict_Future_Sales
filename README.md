@@ -1,4 +1,4 @@
-# # predict_future_sales
+# Predict Future Sales
 
 ## Group Member
 We are group 3. Our members are Ziwei Li, Kexin Zhang, Kewei Chen and HsinYu Chen.
@@ -6,8 +6,7 @@ We are group 3. Our members are Ziwei Li, Kexin Zhang, Kewei Chen and HsinYu Che
 ## Kaggle Competition
 * [Predict Future Sales](https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview) - Link to Kaggle Competition
 * Description:
-In this competition you will work with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Co$
-We are asking you to predict total sales for every product and store in the next month. By solving this competition you will be able to apply and enhance your data science s$
+In this competition we worked with a challenging time-series dataset consisting of daily sales data, kindly provided by one of the largest Russian software firms - 1C Co, and we are asked to predict total sales for every product and store in the next month.
 
 ## Project Description
 In this project, we have tried different models such as
